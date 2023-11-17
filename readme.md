@@ -16,6 +16,7 @@
 
 - docker tag docker-learn:v0.0.2 arijititobuz/docker-learn:v0.0.2
 - docker push arijititobuz/docker-learn:v0.0.2
+- docker pull arijititobuz/docker-learn:v0.0.2
 
 ```
 
