@@ -18,5 +18,7 @@
 - docker push arijititobuz/docker-learn:v0.0.2
 - docker pull arijititobuz/docker-learn:v0.0.2
 
+- docker logs [-f -t --details] 93242c8d6b31
+
 ```
 
