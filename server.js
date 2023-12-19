@@ -1,4 +1,5 @@
 import express from 'express';
+import {fileFromSync} from 'node-fetch'
 
 const app = express();
 const port = 3002;
